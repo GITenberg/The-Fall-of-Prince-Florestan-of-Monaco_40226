@@ -1,0 +1,30 @@
+_repo: The-Fall-of-Prince-Florestan-of-Monaco_40226
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dilke, Charles Wentworth, Sir
+    alias: Dilke, Charles W. (Charles Wentworth), Sir
+    birthdate: 1843
+    deathdate: 1911
+    gutenberg_agent_id: '40494'
+    url: http://www.gutenberg.org/2009/agents/40494
+    wikipedia: http://en.wikipedia.org/wiki/Sir_Charles_Dilke,_2nd_Baronet
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire, English'
+- !lcc 'PR'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Monaco -- Politics and government -- Fiction'
+title: The Fall of Prince Florestan of Monaco
+url: http://www.gutenberg.org/ebooks/40226
